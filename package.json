@@ -1,0 +1,16 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "Advent of code 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:day-1": "npm test -- ./tests/day-1/day-1.spec.js"
+  },
+  "keywords": [],
+  "author": "aksv",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
